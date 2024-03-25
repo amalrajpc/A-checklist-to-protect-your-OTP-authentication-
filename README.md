@@ -2,7 +2,7 @@
 I'm here to help pentesters by offering a concise checklist of items to help them verify the  OTP authentication.
 
 
-  Check whether the OTP is present in the bo response body.
+  Check whether the OTP is present in the response body.
   
   Check whether the OTP is sent via URL parameter or not.
   
@@ -11,3 +11,5 @@ I'm here to help pentesters by offering a concise checklist of items to help the
   Check the randomness of OTP generation.
   
   Check whether the OTP is leaked through response headers.
+
+  Check whether same OTP can be used multiple times.
