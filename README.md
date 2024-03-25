@@ -8,7 +8,7 @@ I'm here to help pentesters by offering a concise checklist of items to help the
   
   Check whether the server properly validate the received OTP. (Shared OTP == or != Received).
   
-  Check the randomness of OTP generation.
+  Check the randomness of generated OTP.
   
   Check whether the OTP is leaked through response headers.
 
