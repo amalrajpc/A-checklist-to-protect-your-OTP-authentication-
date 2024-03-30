@@ -13,3 +13,5 @@ I'm here to help pentesters by offering a concise checklist of OTP authenticatio
   Check whether the OTP is leaked through response headers.
 
   Check whether same OTP can be used multiple times.
+
+  OTP bypass through response manipulation.
